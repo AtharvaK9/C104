@@ -1,18 +1,22 @@
-body{
+body {
     color: white;
     background: pink;
     text-align: center;
 }
-h3{
+
+h3 {
     width: 80%;
     font-size: 22px;
 }
-#camera{
+
+#camera {
     border: 2px dashed black;
     width: 350px;
     height: 300px;
     text-align: center;
 }
-#result_of_objects, #result_of_accuracy{
-    color: yellow;
+
+#result_of_objects,
+#result_of_accuracy {
+    color: black;
 }
